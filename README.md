@@ -1,8 +1,8 @@
-All Visual Effect Shaders Implemented
+All Visual Effect Shaders Implemented In Order Left To Right
 
-1.  Standard Surface PBR
+1.  Transparency
 2.  Standard Specular PBR
-3.  Transparency
+3.  Standard Suface PBR
 4.  Enhanced Hologram
 5.  Texture blending
 6.  Decal with toggle
