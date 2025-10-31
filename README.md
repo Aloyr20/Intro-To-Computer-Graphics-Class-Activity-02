@@ -1,4 +1,4 @@
-All Visual Effect Shaders Implemented In Order Left To Right
+All Visual Effect Shaders Implemented In Order Left To Right in first Image, Right to Left In Second Image
 
 1.  Transparency
 2.  Standard Specular PBR
